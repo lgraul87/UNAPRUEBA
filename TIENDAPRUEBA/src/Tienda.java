@@ -5,6 +5,7 @@ public class Tienda {
 		System.out.println("Paso1");
 		System.out.println("Paso2");
 		System.out.println("Paso3");
+		System.out.println("Paso4");
 	}
 
 }
